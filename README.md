@@ -1,1 +1,1 @@
-# FunctionsChallengeSix
+# lessonSixChallenge
